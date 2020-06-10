@@ -1,0 +1,10 @@
+Exercise1.py
+Exercise2.py
+Hello
+apple
+"$result"
+apple
+hello
+apple
+"$result"
+apple

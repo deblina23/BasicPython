@@ -12,4 +12,5 @@ def inputLst():
 char=input("Enter the char:" )
 
 for i in inputLst():
+21
 	print(char*i)

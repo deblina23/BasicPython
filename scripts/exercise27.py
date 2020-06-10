@@ -9,4 +9,5 @@ sum=""
 for i in inputLst():
 	sum=sum+i
 	
+18
 print(sum)

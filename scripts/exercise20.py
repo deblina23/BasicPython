@@ -7,4 +7,5 @@ if len(str)==0:
 elif copy>=0 and len(str)>0:
 	print(str*copy)
 else:
+16
 	print("non negetive integer value required")

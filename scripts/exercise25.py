@@ -16,4 +16,5 @@ def checkData(data,lst):
 	
 	return False
 char=int(input("Enter the data you want to check: "))
+25
 print(checkData(char,inputList()))

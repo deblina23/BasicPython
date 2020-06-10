@@ -6,4 +6,5 @@ def checkVowel(letter):
 			return True
 			
 	return False		
+15
 print(checkVowel(input("Enter the char: ")))

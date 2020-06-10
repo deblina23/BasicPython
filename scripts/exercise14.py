@@ -6,4 +6,5 @@ d2=datetime(2020,5,26)
 delta=relativedelta.relativedelta(d2,d1)
 print(delta.years)
 print(delta.months)
+15
 print(delta.days)

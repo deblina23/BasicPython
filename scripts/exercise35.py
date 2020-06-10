@@ -8,4 +8,5 @@ def checkVal(a,b):
 
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
+17
 print(checkVal(a,b))

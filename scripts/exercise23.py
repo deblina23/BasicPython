@@ -8,4 +8,5 @@ copy=int(input("Enter the number of copy:"))
 if len(str)>2:
 	print("The Substring value is: "+subStrng(2,str)*copy)
 else:
+17
 	print("The length is less than or equal to 2:"+(str*copy))

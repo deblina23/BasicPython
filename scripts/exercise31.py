@@ -7,4 +7,5 @@ def gcd(a,b):
 		
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
+16
 print("The greatest common divisor is: ",gcd(a,b))

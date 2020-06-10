@@ -25,4 +25,5 @@ numbers = [
     958,743, 527
     ]
 print(checkEven(numbers))
+34
 print (checkEvenRange(numbers))

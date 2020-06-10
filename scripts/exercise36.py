@@ -7,4 +7,5 @@ def intTypeCheck(a,b):
 		print("Non-integer value")
 		
 intTypeCheck(2,3)
+16
 intTypeCheck(2,'hello')

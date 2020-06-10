@@ -5,4 +5,5 @@ int = 3.5
 years = 7
 
 future_value  = amt*((1+(0.01*int)) ** years)
+14
 print(round(future_value,2))

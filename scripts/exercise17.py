@@ -7,4 +7,5 @@ elif number >1000 and number<2000:
 else:
 	print("the number is either less than 100 or greater than 2000")
 	
+16
 print(((abs(1000-number)<=100)or (abs(2000-number)<=100)))

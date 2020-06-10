@@ -16,4 +16,5 @@ for num in number:
 		count=count+1
 		
 		
+25
 print("The count of 4 in list is: "+str(count))		
