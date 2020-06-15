@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+print("Problem:")
+print("   Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. ")
+print("Solution:")
 def checkEven(nums):
 	lst=[]
 	if len(nums)<=237:
@@ -25,5 +28,5 @@ numbers = [
     958,743, 527
     ]
 print(checkEven(numbers))
-34
+
 print (checkEvenRange(numbers))

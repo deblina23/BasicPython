@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+print("Problem:")
+print("  Write a Python program to check whether a specified value is contained in a group of values. ")
+print("Solution:")
 def inputList():
 	lst=[]
 	n=int(input("Enter the list range:"))
@@ -16,5 +19,5 @@ def checkData(data,lst):
 	
 	return False
 char=int(input("Enter the data you want to check: "))
-25
+
 print(checkData(char,inputList()))

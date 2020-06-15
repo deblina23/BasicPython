@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+print("Problem:")
+print("  Write a Python program to create a histogram from a given list of integers. ")
+print("Solution:")
 def inputLst():
 	lst=[]
 	n=int(input("Enter the size of the list: "))
@@ -12,5 +15,5 @@ def inputLst():
 char=input("Enter the char:" )
 
 for i in inputLst():
-21
+
 	print(char*i)

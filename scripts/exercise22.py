@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+print("Problem:")
+print("  Write a Python program to count the number 4 in a given list. ")
+print("Solution:")
 def inputList():
 	lst=[]
 	n=int(input("Enter the number:"))
@@ -16,5 +19,5 @@ for num in number:
 		count=count+1
 		
 		
-25
+
 print("The count of 4 in list is: "+str(count))		
