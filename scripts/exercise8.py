@@ -4,5 +4,4 @@ print("   Write a Python program to display the first and last colors from the f
 print("Solution:")
 l=list(input().split(","))
 l=list(input().split(","))
-
 print(l[0])
